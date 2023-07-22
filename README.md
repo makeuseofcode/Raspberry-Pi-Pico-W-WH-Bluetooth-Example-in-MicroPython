@@ -5,7 +5,7 @@ This repository contains a collection of MicroPython examples and modules for ut
 
 ## Article: How to Read Sensor Values on Raspberry Pi Pico W Using Bluetooth
 
-To complement this repository, we have an article that demonstrates how to read sensor values on the Raspberry Pi Pico W using Bluetooth. It provides a step-by-step guide to help you understand and implement Bluetooth communication with sensors on the board. 
+To complement this repository, we have an article that demonstrates [how to read sensor values on the Raspberry Pi Pico W using Bluetooth](https://www.makeuseof.com/raspberry-pi-pico-w-read-sensor-using-bluetooth/). It provides a step-by-step guide to help you understand and implement Bluetooth communication with sensors on the board. 
 
 Please refer to the article for a detailed walkthrough on using Bluetooth with the Raspberry Pi Pico W. 
 
