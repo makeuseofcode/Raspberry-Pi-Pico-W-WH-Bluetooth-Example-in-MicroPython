@@ -1,6 +1,7 @@
 from machine import Pin, ADC
 import bluetooth
 from ble_simple_peripheral import BLESimplePeripheral
+import time
 
 # Create a Bluetooth Low Energy (BLE) object
 ble = bluetooth.BLE()
