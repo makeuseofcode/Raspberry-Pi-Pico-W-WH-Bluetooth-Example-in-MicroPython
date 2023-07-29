@@ -53,7 +53,7 @@ class BLESimplePeripheral:
             conn_handle, _, _ = data
             print("Disconnected", conn_handle)
             self._connections.remove(conn_handle)
-            # Start advertising again to allow a new connection.
+            # Start advertising again to allow a new connection. Alsways connects when there is an available node.
             self._advertise()
         elif event == _IRQ_GATTS_WRITE:
             conn_handle, value_handle = data
